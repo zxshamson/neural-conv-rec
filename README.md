@@ -56,7 +56,11 @@ optional arguments:
 
 # About NCF pretraining
 
-You need to first run a NCF model result first (then you can find the model parameters in "BestModels/NCF/"). Then put the model file into "BestModels/NCF/For\_pretrained/[Datafilename]", and change file name to be "[factor\_dim]\_[text\_factor\_dim]\_[pred\_pc].model". One possible example can be "BestModels/NCF/For\_pretrained/reddit/20\_100\_0.75.model".
+You need to first run a NCF model result first (then you can find the model parameters in "BestModels/NCF/"). 
+
+Then put the model file into "BestModels/NCF/For\_pretrained/[Datafilename]", and change file name to be "[factor\_dim]\_[text\_factor\_dim]\_[pred\_pc].model". 
+
+One possible example can be "BestModels/NCF/For\_pretrained/reddit/20\_100\_0.75.model".
 
 # Datasets:
 
